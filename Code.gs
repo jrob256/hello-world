@@ -3,6 +3,7 @@ function myFunction() {
   var test = "testing"
 }
 
-function test()
-{
-}
+
+
+
+
