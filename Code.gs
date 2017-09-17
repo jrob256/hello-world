@@ -4,6 +4,3 @@ function myFunction() {
 }
 
 
-
-
-
